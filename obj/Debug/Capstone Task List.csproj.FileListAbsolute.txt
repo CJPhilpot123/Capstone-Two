@@ -1,0 +1,7 @@
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\obj\Debug\Capstone Task List.csprojAssemblyReference.cache
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\obj\Debug\Capstone Task List.csproj.CoreCompileInputs.cache
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\bin\Debug\Capstone Task List.exe.config
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\bin\Debug\Capstone Task List.exe
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\bin\Debug\Capstone Task List.pdb
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\obj\Debug\Capstone Task List.exe
+C:\Users\EpikF\source\repos\Capstone Task List\Capstone Task List\obj\Debug\Capstone Task List.pdb
